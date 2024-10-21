@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "angendei-mobile",
-    "slug": "angendei-mobile",
+    "name": "scheduled-mobile",
+    "slug": "scheduled-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
